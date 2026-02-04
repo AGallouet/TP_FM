@@ -6,7 +6,7 @@ This repository contains the practical work for **2D Flow Matching**, focusing o
 
 - **`TP_flow_matching.ipynb`**  
   Main notebook for the practical session.  
-  It contains theoretical explainations on conditional flow matching and 2D flow matching model to implement.
+  It contains theoretical explainations on conditional flow matching and the 2D flow matching model to implement.
 
 
 - **`pytorch_1D_example.py`**  
